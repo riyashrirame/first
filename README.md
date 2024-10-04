@@ -1,3 +1,3 @@
 # first
 my first repository.
-Aurther-riya shrirame
+Author-riya shrirame
